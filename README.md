@@ -35,4 +35,4 @@ src="https://user-images.githubusercontent.com/65407916/90123936-38187980-dd7d-1
 
 [website]: https://github.com/rvutd
 
-[instagram]: https://www.instagram.com/rvutd/
+[instagram]: https://www.instagram.com/rv_utd/
