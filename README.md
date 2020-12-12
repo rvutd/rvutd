@@ -1,17 +1,14 @@
-### Hi there, I'm Shashank - aka [shashannkbawa][website] 👋
+### Hi there, I'm Ravindra - aka [rvutd][website] 👋
 
 ## I'm a WEb/Mobile Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m just creating stuff for people.
 - 🥅 2020 Goals: Contribute to Open Source projects and Create Stuff...
 - ⚡ I'm a Football Fall "A Red Devil"
 
 ### Connect with me:
 
 [<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="prodigiousPrani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shashank-sharma-abvgiet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="snow_stark._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rvutd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
