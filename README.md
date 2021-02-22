@@ -1,8 +1,8 @@
 ### Hi there, I'm Ravindra - aka [rvutd][website] 👋
 
-## I'm a WEb/Mobile Developer!
+## I'm a Web Developer!
 - 🌱 I’m just creating stuff for people.
-- 🥅 2020 Goals: Contribute to Open Source projects and Create Stuff...
+- 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff...
 - ⚡ I'm a Football Fall "A Red Devil"
 
 ### Connect with me:
