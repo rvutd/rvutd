@@ -1,9 +1,9 @@
-### Hi there, I'm Ravindra - aka [rvutd][website] 👋
+### Hello there, I'm Ravindra - aka [rvutd][website] 👋
 
 ## I'm a Full Stack Developer!
-- 🌱 I’m just creating stuff for people.
-- 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff...
-- ⚡ I'm a Football Fan "A Red Devil" GGMU...
+- 🌱 I’m just learning and creating stuff for people.
+- 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff.
+- ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 
 ### Connect with me:
 
