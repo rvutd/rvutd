@@ -5,7 +5,6 @@
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 - 👨‍💻 Most of my projects are available on Github.
 - 💬 Ping me about react, machine learning, security, and cloud stuff.
-- 📙 Check out my resume.
 
 ### Connect with me:
 
@@ -32,3 +31,4 @@
 
 [website]: https://github.com/rvutd
 [instagram]: https://www.instagram.com/rv_utd/
+
