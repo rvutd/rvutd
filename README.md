@@ -3,7 +3,9 @@
 - 🌱 I’m just learning and creating stuff for people.
 - 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
-
+- 👨‍💻 Most of my projects are available on Github.
+- 💬 Ping me about react, machine learning, security, and cloud stuff.
+- 📙 Check out my resume.
 
 ### Connect with me:
 
@@ -25,15 +27,8 @@
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" alt="rvutd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rvutd&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
 [website]: https://github.com/rvutd
-
 [instagram]: https://www.instagram.com/rv_utd/
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
