@@ -5,6 +5,8 @@
 - 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Connect with me:
 
 [<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
