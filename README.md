@@ -1,5 +1,5 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ravindra - aka [rvutd][website] 
-## I'm a Full Stack Developer! <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+## I'm a Full Stack Developer!
 - 🌱 I’m just learning and creating stuff for people. 
 - 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
