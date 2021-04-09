@@ -1,5 +1,5 @@
-### Hello there, I'm Ravindra - aka [rvutd][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hello there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ I'm Ravindra - aka [rvutd][website] 
 ## I'm a Full Stack Developer!
 - 🌱 I’m just learning and creating stuff for people.
 - 🥅 2021 Goals: Contribute to Open Source projects and Create Stuff.
