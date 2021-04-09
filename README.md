@@ -6,7 +6,7 @@
 - 👨‍💻 Most of my projects are available on Github.
 - 💬 Ping me about react, machine learning, security, and cloud stuff.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -19,12 +19,7 @@
   <img align="left" alt="Ravindra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br />
-<br />
-
 ![](https://visitor-badge.glitch.me/badge?page_id=rvutd.rvutd)
-
-
 
 ### Languages and Tools:
 
@@ -44,4 +39,3 @@
 
 [website]: https://github.com/rvutd
 [instagram]: https://www.instagram.com/rv_utd/
-
