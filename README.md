@@ -12,7 +12,7 @@
 
 [<img align="left" alt="rv_utd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://www.linkedin.com/in/rvutd/">
+<a target="_blank" href="https://www.linkedin.com/in/rvutd/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
