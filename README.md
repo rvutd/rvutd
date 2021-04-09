@@ -26,23 +26,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<rvutd>&theme=<tokyonight>" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 <img align="left" alt="rvutd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rvutd&show_icons=true&hide_border=true&theme=tokyonight" />
 
