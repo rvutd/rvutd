@@ -1,4 +1,4 @@
-### Hello there, I'm Ravindra - aka [rvutd][website] 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there, I'm Ravindra - aka [rvutd][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full Stack Developer!
 - 🌱 I’m just learning and creating stuff for people.
