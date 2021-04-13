@@ -4,7 +4,7 @@
 - 🥅 2021 Goals: Contribute to open source projects and create stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 - 👨‍💻 Most of my projects are available on Github.
-- 💬 Ping me about react, react-native, machine learning, security, and cloud stuff. 
+- 💬 Ping me about react, collaboration, cloud stuff or if you need a website. 
 
 ## Connect with me:
 
