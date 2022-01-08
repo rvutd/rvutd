@@ -1,7 +1,7 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ravindra - aka [rvutd][website] 
-## I'm a Full Stack Developer!
+## Little bit about me!
 - 🌱 I’m just learning and creating stuff for people. 
-- 🥅 2021 Goals: Contribute to open source projects and create stuff.
+- 🥅 2022 Goals: Contribute to open source projects and create stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 - 👨‍💻 Most of my projects are available on Github.
 - 💬 Ping me about react, collaboration, cloud stuff or if you need a website. 
