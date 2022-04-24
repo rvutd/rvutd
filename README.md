@@ -4,7 +4,7 @@
 - 🥅 2022 Goals: Contribute to open source projects and create stuff.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 - 👨‍💻 Most of my projects are available on Github.
-- 💬 Ping me about react, collaboration, cloud stuff or if you need a website. 
+- 💬 Ping me about vue, collaboration, cloud stuff or if you need a website. 
 
 ## Connect with me:
 
@@ -14,9 +14,6 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/rvutd/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Ravindra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rvutd.rvutd)
