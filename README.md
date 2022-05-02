@@ -7,11 +7,6 @@
 - 💬 Ping me about vue, collaboration, cloud stuff or if you need a website. 
 
 ## Connect with me:
-
-[<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="rv_utd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <a target="_blank" href="https://www.linkedin.com/in/rvutd/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
