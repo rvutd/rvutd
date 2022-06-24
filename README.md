@@ -15,7 +15,7 @@
 👨‍💻 Most of my projects are available on Github.
 💬 Ping me about vue, collaboration, cloud stuff or if you need a website.
 
-## 🔥 Streak stats
+## Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 
-### Programming Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px height = 22px>
+### Programming Languages & Frameworks 
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -39,7 +39,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="VueJS" src="https://img.shields.io/badge/Vue.js%20-%2343853D.svg?logo=vue.js&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases, Cloud Hosting & Tools
+### Databases, Cloud Hosting & Tools
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -53,7 +53,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github Stats
+## Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -74,7 +74,7 @@
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
-## 🙋‍♂️ Let's Connect
+## Let's Connect
 <p align="center">
 	<a href="https://github.com/rvutd"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rvutd/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
